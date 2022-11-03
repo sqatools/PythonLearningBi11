@@ -1,0 +1,50 @@
+1. Create Github account
+2. Create reposirtory on the github server
+3. Download git installer and install on windows machine.
+   https://github.com/git-for-windows/git/releases/download/v2.38.1.windows.1/Git-2.38.1-64-bit.exe
+
+4. Create a folder on the machine on specific location
+   e.g gitrepo
+
+5. Open git base on the same location where we can created the folder.
+    right click -> git base here :  new git hub command prompt will open.
+
+6. git clone https://github.com/sqatools/PythonLearningBi11.git
+
+7. Repository folder will be created locally now navigate in that folder
+   cd <folder>
+
+8. Creat a new file in that repo directory
+
+9. Check the status of newly file : 
+    -> git status : it will the file in untrac section with red color.
+
+10. Now we will add file with command 'git add .'
+11. Once file is added , then we will check the status again with command 'git status'
+    -> file will be visible in green color.
+
+12. Now we willcommit the files we have added with command
+    -> git commit -m "commit msg"
+
+   $ git commit -m "We are sending first file to repo"
+   [main (root-commit) ae3b7c3] We are sending first file to repo
+   1 file changed, 1 insertion(+)
+   create mode 100644 first_python_porgram.py
+
+13. Next we will push the local commit on the server
+
+   $ git push : it you are first time push, then it will ask for credentials
+    $ git push
+	Enumerating objects: 3, done.
+	Counting objects: 100% (3/3), done.
+	Delta compression using up to 8 threads
+	Compressing objects: 100% (2/2), done.
+	Writing objects: 100% (3/3), 262 bytes | 262.00 KiB/s, done.
+	Total 3 (delta 0), reused 0 (delta 0), pack-reused 0
+	To https://github.com/sqatools/PythonLearningBi11.git
+ 	* [new branch]      main -> main
+
+
+14.  Once push is succesfull then data will be visible in the github server.
+
+

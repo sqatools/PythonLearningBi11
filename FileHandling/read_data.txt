@@ -1,0 +1,11 @@
+1: Good Morning we are going to enjoy weekend JAVA
+2: Write a Python program which iterates the integers from 1 to 30.
+3: For multiples of three print "Fizz" instead of the
+5: number and for the multiples of five print "Buzz".
+5: For numbers that are multiples JAVA of both three and five
+6: print "FizzBuzz". JAVA Print all values in a dictionary.
+7: Write a Python program which iterates the integers from 1 to 30.
+8: For multiples of three print "Fizz" instead of the number
+9: and for the multiples of five print "Buzz".
+10: For numbers that are multiples of both three and five
+11: print "FizzBuzz". Print all values in a dictionary.

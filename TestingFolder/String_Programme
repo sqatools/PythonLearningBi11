@@ -1,0 +1,40 @@
+1. Write a Python program to calculate the length of a string with loop logic.
+2. Write a Python program to replace second occurance of any char with special character $.
+
+Input = "Programming"
+output = "Prog$am$in$"
+
+3. Write a python program to get to swap last character of two word in given string.
+Input = "Sql Tools"
+Output = "Sqs Tooll"
+
+4.Write a python program to exchange first and last character of each word from given string.
+Input = "Its Online Learning"
+Output = "stI enlino gearninL"
+
+5. Write a python to count vowel from each word in the given string
+   show as dictionary output.
+Input = "We are Learning Python Codding"
+output = {"We" : 1, "are" : 2, "Learning" : 3, "Python":1, "Codding"}
+
+6. Write a python to repeate vowel 3 times and consonent 2 times.
+Input = "Sqa Tools Learning"
+Ouput = "SSqqaaa TToooooollss LLeeeaaarrnniiinngg"
+
+7. Write a python re-arrange the given string.
+Input = "Cricket Plays Virat"
+Output = "Virat Plays Cricket"
+
+8. Write a python program get all the digit from given string.
+Input = """
+Sinak’s 1112 aim	is	to 1773	create	a	new	generation	of	people	who	
+understand 444	that	an	organisation’s 5324	success	or	failure	is	
+based	on	555 leadership	excellence	and	not	managerial	
+acumen
+"""
+
+Output = [1112, 5324, 1773, 5324, 555]
+
+
+9. Write a python program to replace words "Java" with "Python" in the given string.
+Input = ""

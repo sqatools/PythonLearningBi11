@@ -1,0 +1,71 @@
+Basic Python Test1.
+
+1. Write a Python program to calculate the sum of three given numbers, 
+   if the values are equal then return three times of their sum
+
+example : a = 3, b = 5, c = 7 : output = 15
+example : a = 2, b = 2, c = 2 : output = total_sum*3 : 6*3 : 18
+
+2. Write a Python program that will return true if the two given integer 
+   values are equal or their sum or difference is 5
+
+example : a =4, b=4 : output : True
+example : a =5, b=10 : b-a == 5 : Output: True
+example : a =2, b=3  : a+b = 5 : Output : True
+
+3. Write a python program to print given pattern:
+1
+2 3 
+4 5 6
+7 8 9 10
+9 8 7 
+6 5
+4
+
+4. Write a python program to calculat interest amount.
+Formula:
+A = P (1 + rt)
+A	=	final amount
+P	=	initial principal balance
+r	=	annual interest rate
+t	=	time (in years)
+
+
+5. Write a python program to calulate total bill with discount.
+
+-> get order amount as input
+-> if order amount is between 1000 - 2000 : dicount 5%
+-> if order amount is between 2000- 3000 : dicount 10%
+-> if order amount is between 3000- 4000 : dicount 15%
+-> if order amount is between 4000- 5000 : dicount 20%
+-> if order amount is greater than 5000 : dicount 25%
+
+6. Write a python program Format given string.
+
+str1 = "Python Programming Is best"
+Ouput = "ppYTHOnn ppROGRAMMINgg iiss bbEStt"
+
+7. Write a python  program to remove duplicate char from given string.
+
+str1 = "Programming"
+output = "Progamin"
+
+8. Write python program to print given string format.
+
+str1 = "learning programming"
+output = "LeArNiNg PrOgRaMmIng"
+
+temp = ''
+for i in range(len(str))
+
+  if i%2 == 0:
+     temp = temp + str1[i].upper()
+  else:
+     temp = temp + str1[i].lower()
+
+
+
+
+
+
+

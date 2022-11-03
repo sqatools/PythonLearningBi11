@@ -1,0 +1,211 @@
+Microsoft Windows [Version 10.0.19043.1889]
+(c) Microsoft Corporation. All rights reserved.
+
+C:\Users\Deepesh Yadav>python
+Python 3.10.4 (tags/v3.10.4:9d38120, Mar 23 2022, 23:13:41) [MSC v.1929 64 bit (AMD64)] on win32
+Type "help", "copyright", "credits" or "license" for more information.
+>>> a = 20
+>>> id(a)
+2186625549136
+>>> b = 20
+>>> id(b)
+2186625549136
+>>> c = 40
+>>> id(c)
+2186625549776
+>>> abc = 40
+>>> abc
+40
+>>> a b = 40
+  File "<stdin>", line 1
+    a b = 40
+      ^
+SyntaxError: invalid syntax
+>>> a_b_23 = 40
+>>> a_b_23
+40
+>>> del a
+>>> a
+Traceback (most recent call last):
+  File "<stdin>", line 1, in <module>
+NameError: name 'a' is not defined
+>>> b
+20
+>>> del b
+>>> b
+Traceback (most recent call last):
+  File "<stdin>", line 1, in <module>
+NameError: name 'b' is not defined
+>>> ABC = 500
+>>> ABC
+500
+>>> abc = 550
+>>> abc
+550
+>>> ABC
+500
+>>> abc
+550
+>>> p = q = r = 700
+>>> p
+700
+>>> q
+700
+>>> r
+700
+>>> # Addition
+>>> x = 50
+>>> y = 70
+>>> x + y
+120
+>>> z = x + y
+>>> z
+120
+>>> #  subtraction
+>>> zz = x -y
+>>> zz
+-20
+>>> # Multiplcation
+>>> multi = x * y
+>>> multi
+3500
+>>> # Divide sinlge slace / and double slace //
+>>> s = 40
+>>> r = 4
+>>> output = s/r
+>>> output
+10.0
+>>> output = s/3
+>>> output
+13.333333333333334
+>>>
+>>>
+>>> output2 = s//3
+>>> output2
+13
+>>> # Remainder operator
+>>> var = 41
+>>> output3 = var%4
+>>> output3
+1
+>>>
+>>>
+>>>
+>>>
+>>>
+>>>
+>>>
+>>>
+>>>
+>>>
+>>>
+>>>
+>>>
+>>>
+>>>
+>>>
+>>>
+>>>
+>>>
+>>>
+>>>
+>>>
+>>>
+>>>
+>>>
+>>>
+>>>
+>>>
+>>>
+>>>
+>>>
+>>>
+>>>
+>>> new_var = "My Tech Focus"
+>>> type(new_var)
+<class 'str'>
+>>> var2 = 30.4
+>>> type(var3)
+Traceback (most recent call last):
+  File "<stdin>", line 1, in <module>
+NameError: name 'var3' is not defined. Did you mean: 'var'?
+>>> type(var2)
+<class 'float'>
+>>>
+>>>
+>>> var3 = 2200000000000
+>>> type(var3)
+<class 'int'>
+>>>
+>>>
+>>>
+>>> a = 30
+>>> b = 40
+>>> c = -10
+>>> output = a*b + (a-b)*c - a*c
+>>> output
+1600
+>>> p = a*b
+>>> q = (a-b)*c
+>>> r = a*c
+>>> p
+1200
+>>> q
+100
+>>> r
+-300
+>>> output2 = p + q -(-r)
+>>> output2
+1000
+>>> output2 = p + q + r
+>>> output2
+1000
+>>> output2 = p + q - r
+>>> output2
+1600
+>>>
+>>>
+>>>
+>>>
+>>> a = 5
+>>> a**2
+25
+>>> a**3
+125
+>>> b = 50
+>>> b**3
+125000
+>>>
+>>>
+>>>
+>>> x = 50/2
+>>> y = 60//3
+>>> z = 8**3
+>>> output = x**2 + y*2 - (x+z)
+>>> output
+128.0
+>>>
+>>>
+>>> p1 = 50
+>>> p2 = 60
+>>> p1 == p2
+False
+>>> p2 = 50
+>>> p1 == p2
+True
+>>> output = (p1 == p2)
+>>> output
+True
+>>> print(p1 == p2)
+True
+>>>
+
+
+
+
+
+
+
+
+
+

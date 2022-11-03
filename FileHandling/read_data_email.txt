@@ -1,0 +1,11 @@
+1: Good Morning  admin@gmail.com we are going to enjoy weekend
+2: Write a Python program which iterates the integers from 1 to 30.
+3: For multiples of three print "Fizz" Python instead of the
+5: number  Python  and for the multiples test@gmail.com of five print "Buzz".
+5: For numbers that are multiples of both three and five
+6: print "FizzBuzz". Print all values in a dictionary.
+7: Write a Python program which iterates the integers from 1 to 30.
+8: For multiples of three print "Fizz" Python  instead of the number
+9: and for the  tushar@hotmail.com multiples of five print "Buzz".
+10: For numbers that are multiples of both three and five
+11: print "FizzBuzz". Print all values in a dictionary.
